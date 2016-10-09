@@ -1,0 +1,25 @@
+//
+//  whoChatPrefixHeader.pch
+//  WhoChat
+//
+//  Created by Loser on 16/8/31.
+//  Copyright © 2016年 Mac. All rights reserved.
+//
+
+#ifndef whoChatPrefixHeader_pch
+#define whoChatPrefixHeader_pch
+
+
+#import "Common.h"
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "helper.h"
+#import "UIView+Frame.h"
+#import "View+MASAdditions.h"
+#import "CostomEnum.h"
+#import "XMPP.h"
+#import "Loser_XMPPManger.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* whoChatPrefixHeader_pch */
